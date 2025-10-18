@@ -2,11 +2,16 @@
 
 # Examples of search engine:
 Google
+
 Bing
+
 Yahoo
+
 DuckDuckGo
+
 Baidu(china)
-Yandex
+
+Yandex(Rossiya)
 
 _Common Google search operation and their uses:
 Operator            Example                       What it does
