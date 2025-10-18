@@ -13,8 +13,9 @@ Baidu(china)
 
 Yandex(Rossiya)
 
-_Common Google search operation and their uses:
+# Common Google search operation and their uses:
 Operator            Example                       What it does
+
 
 ""                  "artifical intelligence"      searches exact phrase
 -                    python-snake                 Excludes a wors
