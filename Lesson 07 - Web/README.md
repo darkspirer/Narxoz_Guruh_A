@@ -1,6 +1,6 @@
 # Search engines
 
-_Examples of search engine:
+# Examples of search engine:
 Google
 Bing
 Yahoo
