@@ -1,4 +1,4 @@
-# Search engines
+# Lesson 07 - Search engines
 
 # Examples of search engine:
 Google
