@@ -1,3 +1,3 @@
 # Internet Security & Passwords
-- {https://temp-mail.org/en/ }
-- {https://bitwarden.com/password-strength/ }
+-  email change {https://temp-mail.org/en/ }
+- password check {https://bitwarden.com/password-strength/ }
