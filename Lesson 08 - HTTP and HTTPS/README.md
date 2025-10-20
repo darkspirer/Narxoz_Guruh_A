@@ -3,7 +3,7 @@
 - Hyper - Text Transfer Protocol --- Xavfli sayt hisoblanadi.
 # HTTPS
 - Hyper - Text transfer Protocol Secure --- Xavfsiz sayt hisoblanadi.
-- www - word wideweb 
+- www - word wide web 
 
 
   
