@@ -1,17 +1,12 @@
 # Lesson 07 - Search engines
 
 # Examples of search engine:
-Google
-
-Bing
-
-Yahoo
-
-DuckDuckGo
-
-Baidu(china)
-
-Yandex(Rossiya)
+- Google
+- Bing
+- Yahoo
+- DuckDuckGo
+- Baidu(china)
+- Yandex(Rossiya)
 
 # Common Google search operation and their uses:
 Operator            Example                       What it does
