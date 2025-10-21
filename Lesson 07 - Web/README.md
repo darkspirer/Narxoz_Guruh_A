@@ -9,37 +9,37 @@
 - Yandex(Rossiya)
 
 # Common Google search operation and their uses:
-Operator            Example                       What it does
+# Operator
+- ""      
+- -                    
+- site:               
+- filetype:          
+- OR                  
+- intitle:           
+- inurl:              
+- before:           
+- define:        
+- after:             
+- related:
 
-
-""                  "artifical intelligence"      searches exact phrase
--                    python-snake                 Excludes a wors
-site:               site:github.com nextjs        Searches only in that site 
-filetype:           filetype:pdf resume template  Finds specific file types 
-OR                  react OR vue                  Finds results with either term
-intitle:            intitle:frontend              Searches for words in page titles
-inurl:              inurl:frontend                Searches for words in page url
-before:             before:2024-01-01             Find resilts before the date 
-define:             define:API                    Quickly gives definitions
-after:              after:2024-01-01              Find results after the date
-related:            related:amazin.com            Finds similar websites
-
-Web         Developer       Key strengths                       Drawbacks
- Google     Google          Fast,supports latest web            High RAM usage,
- Chrome                     features, lots of extensions        tracks user data
- Mozilla    Mozilla         Privacy-focused, open source,       Slightly slower on
- FireFox                    customizeable                       heavy sites
- Microsoft  Microsoft       Built on Chromium,integrates        Some tracking concern
- Edge                       with Windows, good performance  
- Safari     Apple           Optimized for Apple devices,        Only on macOS/IOS
-                            fast and battery-efficient
- Opera     Opera            Built-in VPN & ad blocker,          Smaller extension
-           Software         sidebar tools                       ecosystem
- Brave     Brave            Blocks ads & tracks by              Some sites may break with
-           Software         default, privacy-first              aggresive blocking
- Tor       Tor Project      Focused on anonymity, routes        Slower, some sites
- Browser                    traffic through encrypted network   block Tor users
-⚙️ Three “layers” of the web:
+ # Web
+ Google  Chrome
+ 
+ Mozilla 
+ 
+ FireFox 
+ 
+ Microsoft
+ Edge      
+ 
+ Safari   
+             
+ Opera   
+          
+ Brave    
+          
+ Tor Browser                   
+# ⚙️ Three “layers” of the web:
 Surface Web: The normal internet — Google, YouTube, Wikipedia. Search engines can find it.
 
 Deep Web: Pages not indexed by search engines — like emails, private databases, or school portals. (Most of what we use daily is actually part of the deep web — just private.)
