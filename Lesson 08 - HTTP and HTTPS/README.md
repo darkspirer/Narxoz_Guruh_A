@@ -3,7 +3,12 @@
 - Hyper - Text Transfer Protocol --- Xavfli sayt hisoblanadi.
 # HTTPS
 - Hyper - Text transfer Protocol Secure --- Xavfsiz sayt hisoblanadi.
-- www - word wide web 
+- www - word wide web
+# Misol
+- https://www.nytimes.com/2025/10/20/business/aws.down.internet.outage.html
 
+html ni ozgartirish mumkin.
 
-  
+oxirgisi papka emas, file bo'ladi.file nomini o'zgartirish mumkin.
+
+misol:pdf,pptx,xlsx,docx.
