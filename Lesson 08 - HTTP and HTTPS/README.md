@@ -12,3 +12,10 @@ html ni ozgartirish mumkin.
 oxirgisi papka emas, file bo'ladi.file nomini o'zgartirish mumkin.
 
 misol:pdf,pptx,xlsx,docx.
+
+# Test darsi
+- Terminal
+
+kompyuter oynasida emas, balki kodlar orqali komp.ni boshqarish
+
+- CLI - command line interface ya'ni nu  Terminal
