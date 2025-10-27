@@ -22,7 +22,7 @@ o'zining IP manzili bor.
 # DNS
 - DNS - internetdagi domen nomlarini (masalan,edu.uz) IP o'zgartiruvchi tizim.
 - Misol:facebook-> 123.141.32.34.63
-#LAN
+# LAN
 LAN - kichik hududdagi qurilmalarni bog'lovchi tarmoq tizimi, masalan, uyda yoki ofisdagi wifi.
 # VPN 
 VPN - sizning IP manziligizni xavfsiz maxfiy tarmoqqa ulab berish usuli.
