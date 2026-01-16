@@ -1,2 +1,2 @@
 # Narxoz_Guruh_A
-- his was the course I studied
+- This was the course I studied
